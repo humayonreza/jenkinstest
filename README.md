@@ -1,2 +1,3 @@
 # jenkinstest for S M Humayon Reza
 Checking Jenkins power...
+Checking Jenkins power 2
